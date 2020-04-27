@@ -1,0 +1,58 @@
+/*css document*/
+h1{
+	font-size: 65px;
+	color: #173f5f;
+	width:650px auto;
+	text-transform: uppercase;
+	text-decoration: overline underline;
+	text-align: center;
+	position: center;
+	padding: 16px 10px 10px;
+	margin-bottom: -7px;
+	position: static;
+}
+h2{
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 35px;
+	color: #20639b;
+	position: static;
+}
+h3{
+	font-size: 24px;
+	font-style: bold;
+	color: #5c5c3d;
+	width:10%;
+	text-align:center;
+	border-radius: 9px;
+	border-width: 1.5px;
+	border-style: outset;
+
+
+}
+body {
+	/*background-image: url("eat.jpeg");*/ 
+	background-color: #e6f5ff;
+	background-position: no-repeat;
+	width: 500px auto;
+	height: 1200px auto;
+	color: #3caea3;
+	position: static;
+}
+ul{
+	list-style-type: circle;
+}
+
+.stylename{
+	font-style: italic;
+	color:black;
+}
+
+.styleprice{
+	color:grey;
+	font-size: 14px;
+}
+.appbox{
+	margin-left: 12%;
+	position:center;
+}
