@@ -1,12 +1,14 @@
 /*CSS DOCUMENT*/
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Playfair+Display:wght@500&family=Scope+One&family=Source+Sans+Pro:wght@200&display=swap');
-h1 {
+
+h1{
 	font-size: 2.5em;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
-	
 }
-
+header{
+	padding: 1em;
+}
 h2{
 	font-size: 1.5em;
 	text-align: center;
@@ -19,36 +21,45 @@ h3{
 	color: #248f8f;
 	text-decoration: underline;
 }
-img {
+img{
 	width: 100%;
+	margin: 0 0 1em;
 }
-
 .container{
 	max-width: 55em; 
 	margin: auto;
 }
- p{
+.intro{
  	font-family: 'Source Sans Pro', sans-serif;
  	text-align: center;
- 	font-size: 1em;
+ 	font-size: 1.2em;
+ 	font-weight: bold;
  	word-spacing: 2px;
  	font-style: oblique;
- }
-
- ul{
+ 	padding: 1em;
+ 	background: #e0ebeb;
+ 	color: #606060;
+}
+.ingredients{
  	font-family: 'Source Sans Pro', sans-serif;
  	list-style-type: inherit;
  	font-size: 1em;
- }
-
- li{
+ 	padding: 0.5em;
+ 	line-height: 1.6em;
+}
+.direction{
+	font-family: 'Source Sans Pro', sans-serif;
+ 	font-size: 1em;
+	padding:0.5em;
+}
+li{
  	font-family: 'Source Sans Pro', sans-serif;
  	font-size: 1em;
- }
- footer{
- 	float: right;
+ 	line-height: 1.6em;
+}
+h6{
  	font-family: 'Source Sans Pro', sans-serif;
- 	font-size: 1em;
- }
+ 	text-align: center;
+}
 
 
