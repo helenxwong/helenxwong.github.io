@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa&family=Josefin+Sans&family=Work+Sans:wght@200&display=swap');
+img.logo{
+	max-width: 17%;
+    margin-bottom: 0;
+    padding-top:0.8em;
+}
+
+ 
+nav{
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3.5em;
+    text-align:center; 
+    width: 70%;
+}
+
+nav ul li{
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 0.1em;
+	text-decoration: none;
+}
+
+li{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+	color:#A8A8A8;
+}
+
+img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	display: block;
+	padding-bottom: 0.2em;
+}
+
+body{
+	font-family: 'Work Sans', sans-serif;	
+}
+
+h2 {
+	text-transform: uppercase;
+}
+h3{
+	color:#e6b800;
+	font-family: 'Changa', sans-serif;
+	font-size: 1.8em;
+}
+
+h4{
+	color:#802000;
+}
+
+header{
+	text-align: center;
+}
+
+.homeimage{
+	/*padding: 2em;*/
+	width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+.aboutimage{
+	width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 1em
+}
+
+.sfimage{
+	text-align: center;
+	padding: .5em;
+	padding-bottom: 4em;
+}
+.irvineimage{
+	text-align: center;
+	padding: .5em;
+}
+
+.themenu{
+	padding: .5em;
+}
+
+@media only screen and (min-width: 40em){
+	.container {
+		padding: 2em;
+		align-items: center;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
