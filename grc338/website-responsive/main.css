@@ -3,6 +3,7 @@ img.logo{
 	max-width: 17%;
     margin-bottom: 0;
     padding-top:0.8em;
+
 }
 
  
@@ -62,17 +63,20 @@ header{
 
 .homeimage{
 	/*padding: 2em;*/
-	width: 100%;
     margin-left:auto;
     margin-right: auto;
     margin-bottom: 1em;
+    width: 85%;
+    margin: auto;
+
 }
 
 .aboutimage{
-	width: 100%;
     margin-left:auto;
     margin-right: auto;
     margin-bottom: 1em
+    width: 85%;
+    margin: auto;
 }
 
 .sfimage{
@@ -87,6 +91,10 @@ header{
 
 .themenu{
 	padding: .5em;
+	width: 85%;
+    margin: auto;
+    margin-left:auto;
+    margin-right: auto;
 }
 
 @media only screen and (min-width: 40em){
