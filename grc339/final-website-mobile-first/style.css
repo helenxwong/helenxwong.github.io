@@ -1,0 +1,51 @@
+/*CSS document*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Palanquin:wght@200&display=swap');
+body {
+	font-family: 'Palanquin', sans-serif;
+	background-color:#ebebe0 ;
+
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+nav {
+    padding-bottom:3em;
+    text-align: center;
+}
+
+nav ul li {
+	font-family: 'Open Sans', sans-serif;
+    list-style: none;
+    display: inline;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1em;
+}
+
+a{
+  text-decoration: none;  
+  color:#737373;
+}
+
+h2{
+	color:#7a7a52;
+	font-family: 'Open Sans', sans-serif;
+}
+h3{
+	color:#7a7a52;
+	font-family: 'Open Sans', sans-serif;
+}
+figcaption{
+	color:#737373;
+}
